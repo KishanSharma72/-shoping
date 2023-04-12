@@ -6,7 +6,7 @@ You have permition to clone this website & code will be written in ReactJS, HTML
 
 ### git clone https://github.com/KishanSharma72/shoping.git
 
-#### Check live click [Here](https://github.com/KishanSharma72/shoping.git)
+#### Check live click [Here](https://kishansharma72.github.io/shoping/)
 
 ## Available Scripts
 
